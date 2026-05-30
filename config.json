@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesalidate",
+        "uuid": 654939,
+        "checksum": "fv6iss"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
